@@ -1,0 +1,130 @@
+{
+  "app": { "name": "ForenXAI", "tagline": "Explain. Detect. Trust." },
+  "nav": {
+    "dashboard": "Dashboard",
+    "transactions": "Transactions",
+    "cases": "Cases",
+    "analytics": "Analytics",
+    "more": "More",
+    "moreTools": "More Tools"
+  },
+  "header": {
+    "language": "Language",
+    "theme": "Theme",
+    "notifications": "Notifications"
+  },
+  "onboarding": {
+    "title1": "AI-Powered Detection",
+    "desc1": "Advanced algorithms detect anomalous transactions in real-time",
+    "title2": "Explainable Intelligence",
+    "desc2": "Understand WHY each transaction is flagged, not just that it is",
+    "title3": "Forensic Insights",
+    "desc3": "Build cases, track patterns, and make informed decisions",
+    "getStarted": "Get Started",
+    "next": "Next"
+  },
+  "auth": {
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "placeholder_email": "auditor@forensai.com",
+    "placeholder_password": "••••••••"
+  },
+  "home": {
+    "title": "Dashboard",
+    "subtitle": "ForenXAI Intelligence Platform",
+    "riskOverview": "Risk Overview",
+    "totalTransactions": "Total",
+    "flaggedTransactions": "Flagged",
+    "underInvestigation": "Investigating",
+    "resolved": "Resolved",
+    "explainabilityScore": "Explainability Score",
+    "explainabilityDesc": "Model transparency — all decisions are fully auditable",
+    "anomalyTrend": "Anomaly Trend — 7 Days",
+    "riskHeatmap": "Risk Heatmap — Day × Time",
+    "heatmapLegend": "Darker = Higher risk concentration",
+    "reviewFlagged": "Review Flagged",
+    "openCases": "Open Cases"
+  },
+  "transactions": {
+    "title": "Transactions",
+    "pendingReview": "pending review",
+    "swipeRight": "Swipe right → Safe",
+    "swipeLeft": "← Investigate",
+    "riskScore": "Risk Score",
+    "amount": "Amount",
+    "location": "Location",
+    "merchant": "Merchant",
+    "time": "Time",
+    "anomalyDetected": "⚠ Anomaly Detected",
+    "allTransactions": "All Transactions",
+    "filterAll": "All",
+    "filterHigh": "High Risk",
+    "filterMedium": "Medium",
+    "filterLow": "Low Risk"
+  },
+  "detail": {
+    "title": "Transaction Details",
+    "explainability": "Why is this flagged?",
+    "behavioralDeviation": "Behavioral Deviation",
+    "deviationDesc": "This transaction deviates significantly from user's normal pattern",
+    "contributionFactors": "Contribution Factors",
+    "markSafe": "Mark Safe",
+    "investigate": "Investigate",
+    "addToCase": "Add to Case"
+  },
+  "investigation": {
+    "title": "Investigation Cases",
+    "createCase": "New Case",
+    "openCases": "Open Cases",
+    "closedCases": "Closed Cases",
+    "addNote": "Add Note",
+    "timeline": "Timeline",
+    "noCases": "No open cases. Create one to start investigating.",
+    "transactions": "transactions",
+    "notes": "notes",
+    "created": "Created"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "weeklyTrend": "Weekly Anomaly Trend",
+    "riskDistribution": "Risk Distribution",
+    "categoryBreakdown": "Category Breakdown",
+    "keyInsights": "🔍 Key Insights",
+    "trends": "Anomaly Trends",
+    "heatmap": "Risk Heatmap",
+    "categories": "Category Breakdown"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "language": "Language",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "appInfo": "App Info",
+    "version": "Version",
+    "build": "Build"
+  },
+  "more": {
+    "forensicTools": "FORENSIC TOOLS",
+    "network": "Transaction Network Graph",
+    "networkDesc": "Visualize account relationships",
+    "aiInsight": "AI Insight Engine",
+    "aiInsightDesc": "Ask AI about your transactions",
+    "behavioral": "Behavioral Fingerprint",
+    "behavioralDesc": "User pattern deviation analysis",
+    "auditTrail": "Audit Trail",
+    "auditTrailDesc": "Immutable action log",
+    "settingsDesc": "Theme & language preferences"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "loading": "Loading...",
+    "create": "Create"
+  }
+}

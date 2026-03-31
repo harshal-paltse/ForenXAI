@@ -1,0 +1,130 @@
+{
+  "app": { "name": "ForenXAI", "tagline": "स्पष्ट करा। शोधा। विश्वास ठेवा।" },
+  "nav": {
+    "dashboard": "डॅशबोर्ड",
+    "transactions": "व्यवहार",
+    "cases": "प्रकरणे",
+    "analytics": "विश्लेषण",
+    "more": "अधिक",
+    "moreTools": "अधिक साधने"
+  },
+  "header": {
+    "language": "भाषा",
+    "theme": "थीम",
+    "notifications": "सूचना"
+  },
+  "onboarding": {
+    "title1": "AI-चालित शोध",
+    "desc1": "प्रगत अल्गोरिदम रिअल-टाइममध्ये असामान्य व्यवहार शोधतात",
+    "title2": "स्पष्टीकरणात्मक बुद्धिमत्ता",
+    "desc2": "प्रत्येक व्यवहार का फ्लॅग केला आहे हे समजून घ्या",
+    "title3": "फॉरेन्सिक अंतर्दृष्टी",
+    "desc3": "प्रकरणे तयार करा, पॅटर्न ट्रॅक करा आणि माहितीपूर्ण निर्णय घ्या",
+    "getStarted": "सुरू करा",
+    "next": "पुढे"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "forgotPassword": "पासवर्ड विसरलात?",
+    "placeholder_email": "auditor@forensai.com",
+    "placeholder_password": "••••••••"
+  },
+  "home": {
+    "title": "डॅशबोर्ड",
+    "subtitle": "ForenXAI इंटेलिजन्स प्लॅटफॉर्म",
+    "riskOverview": "जोखीम विहंगावलोकन",
+    "totalTransactions": "एकूण",
+    "flaggedTransactions": "फ्लॅग",
+    "underInvestigation": "तपास",
+    "resolved": "निराकरण",
+    "explainabilityScore": "स्पष्टीकरण स्कोअर",
+    "explainabilityDesc": "मॉडेल पारदर्शकता — सर्व निर्णय पूर्णपणे ऑडिट करण्यायोग्य आहेत",
+    "anomalyTrend": "विसंगती ट्रेंड — 7 दिवस",
+    "riskHeatmap": "जोखीम हीटमॅप — दिवस × वेळ",
+    "heatmapLegend": "गडद = जास्त जोखीम",
+    "reviewFlagged": "फ्लॅग केलेले पहा",
+    "openCases": "खुली प्रकरणे"
+  },
+  "transactions": {
+    "title": "व्यवहार",
+    "pendingReview": "पुनरावलोकन प्रलंबित",
+    "swipeRight": "उजवीकडे → सुरक्षित",
+    "swipeLeft": "← तपास",
+    "riskScore": "जोखीम स्कोअर",
+    "amount": "रक्कम",
+    "location": "स्थान",
+    "merchant": "व्यापारी",
+    "time": "वेळ",
+    "anomalyDetected": "⚠ विसंगती आढळली",
+    "allTransactions": "सर्व व्यवहार",
+    "filterAll": "सर्व",
+    "filterHigh": "उच्च जोखीम",
+    "filterMedium": "मध्यम",
+    "filterLow": "कमी जोखीम"
+  },
+  "detail": {
+    "title": "व्यवहार तपशील",
+    "explainability": "हे का फ्लॅग केले आहे?",
+    "behavioralDeviation": "वर्तणूक विचलन",
+    "deviationDesc": "हा व्यवहार वापरकर्त्याच्या सामान्य पॅटर्नपासून लक्षणीयरीत्या वेगळा आहे",
+    "contributionFactors": "योगदान घटक",
+    "markSafe": "सुरक्षित चिन्हांकित करा",
+    "investigate": "तपास करा",
+    "addToCase": "प्रकरणात जोडा"
+  },
+  "investigation": {
+    "title": "तपास प्रकरणे",
+    "createCase": "नवीन प्रकरण",
+    "openCases": "खुली प्रकरणे",
+    "closedCases": "बंद प्रकरणे",
+    "addNote": "टीप जोडा",
+    "timeline": "टाइमलाइन",
+    "noCases": "कोणतेही खुले प्रकरण नाही. तपास सुरू करण्यासाठी एक तयार करा.",
+    "transactions": "व्यवहार",
+    "notes": "नोट्स",
+    "created": "तयार केले"
+  },
+  "analytics": {
+    "title": "विश्लेषण",
+    "weeklyTrend": "साप्ताहिक विसंगती ट्रेंड",
+    "riskDistribution": "जोखीम वितरण",
+    "categoryBreakdown": "श्रेणी विभाजन",
+    "keyInsights": "🔍 मुख्य अंतर्दृष्टी",
+    "trends": "विसंगती ट्रेंड",
+    "heatmap": "जोखीम हीटमॅप",
+    "categories": "श्रेणी विभाजन"
+  },
+  "settings": {
+    "title": "सेटिंग्ज",
+    "theme": "थीम",
+    "language": "भाषा",
+    "darkMode": "डार्क मोड",
+    "lightMode": "लाइट मोड",
+    "appInfo": "ॲप माहिती",
+    "version": "आवृत्ती",
+    "build": "बिल्ड"
+  },
+  "more": {
+    "forensicTools": "फॉरेन्सिक साधने",
+    "network": "व्यवहार नेटवर्क ग्राफ",
+    "networkDesc": "खाते संबंध पहा",
+    "aiInsight": "AI अंतर्दृष्टी इंजिन",
+    "aiInsightDesc": "तुमच्या व्यवहारांबद्दल AI ला विचारा",
+    "behavioral": "वर्तणूक फिंगरप्रिंट",
+    "behavioralDesc": "वापरकर्ता पॅटर्न विचलन विश्लेषण",
+    "auditTrail": "ऑडिट ट्रेल",
+    "auditTrailDesc": "अपरिवर्तनीय क्रिया लॉग",
+    "settingsDesc": "थीम आणि भाषा प्राधान्ये"
+  },
+  "common": {
+    "save": "जतन करा",
+    "cancel": "रद्द करा",
+    "delete": "हटवा",
+    "edit": "संपादित करा",
+    "close": "बंद करा",
+    "loading": "लोड होत आहे...",
+    "create": "तयार करा"
+  }
+}

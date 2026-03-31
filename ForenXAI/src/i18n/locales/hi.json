@@ -1,0 +1,130 @@
+{
+  "app": { "name": "ForenXAI", "tagline": "समझाएं। पता लगाएं। विश्वास करें।" },
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "transactions": "लेनदेन",
+    "cases": "मामले",
+    "analytics": "विश्लेषण",
+    "more": "अधिक",
+    "moreTools": "अधिक उपकरण"
+  },
+  "header": {
+    "language": "भाषा",
+    "theme": "थीम",
+    "notifications": "सूचनाएं"
+  },
+  "onboarding": {
+    "title1": "AI-संचालित पहचान",
+    "desc1": "उन्नत एल्गोरिदम वास्तविक समय में असामान्य लेनदेन का पता लगाते हैं",
+    "title2": "व्याख्यात्मक बुद्धिमत्ता",
+    "desc2": "समझें कि प्रत्येक लेनदेन को क्यों फ़्लैग किया गया है",
+    "title3": "फोरेंसिक अंतर्दृष्टि",
+    "desc3": "मामले बनाएं, पैटर्न ट्रैक करें और सूचित निर्णय लें",
+    "getStarted": "शुरू करें",
+    "next": "अगला"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "placeholder_email": "auditor@forensai.com",
+    "placeholder_password": "••••••••"
+  },
+  "home": {
+    "title": "डैशबोर्ड",
+    "subtitle": "ForenXAI इंटेलिजेंस प्लेटफॉर्म",
+    "riskOverview": "जोखिम अवलोकन",
+    "totalTransactions": "कुल",
+    "flaggedTransactions": "फ़्लैग",
+    "underInvestigation": "जांच",
+    "resolved": "हल",
+    "explainabilityScore": "व्याख्यात्मकता स्कोर",
+    "explainabilityDesc": "मॉडल पारदर्शिता — सभी निर्णय पूरी तरह से ऑडिट योग्य हैं",
+    "anomalyTrend": "विसंगति प्रवृत्ति — 7 दिन",
+    "riskHeatmap": "जोखिम हीटमैप — दिन × समय",
+    "heatmapLegend": "गहरा = उच्च जोखिम",
+    "reviewFlagged": "फ़्लैग की समीक्षा करें",
+    "openCases": "खुले मामले"
+  },
+  "transactions": {
+    "title": "लेनदेन",
+    "pendingReview": "समीक्षा लंबित",
+    "swipeRight": "दाएं → सुरक्षित",
+    "swipeLeft": "← जांच",
+    "riskScore": "जोखिम स्कोर",
+    "amount": "राशि",
+    "location": "स्थान",
+    "merchant": "व्यापारी",
+    "time": "समय",
+    "anomalyDetected": "⚠ विसंगति पाई गई",
+    "allTransactions": "सभी लेनदेन",
+    "filterAll": "सभी",
+    "filterHigh": "उच्च जोखिम",
+    "filterMedium": "मध्यम",
+    "filterLow": "कम जोखिम"
+  },
+  "detail": {
+    "title": "लेनदेन विवरण",
+    "explainability": "यह क्यों फ़्लैग किया गया है?",
+    "behavioralDeviation": "व्यवहार विचलन",
+    "deviationDesc": "यह लेनदेन उपयोगकर्ता के सामान्य पैटर्न से काफी अलग है",
+    "contributionFactors": "योगदान कारक",
+    "markSafe": "सुरक्षित चिह्नित करें",
+    "investigate": "जांच करें",
+    "addToCase": "मामले में जोड़ें"
+  },
+  "investigation": {
+    "title": "जांच मामले",
+    "createCase": "नया मामला",
+    "openCases": "खुले मामले",
+    "closedCases": "बंद मामले",
+    "addNote": "नोट जोड़ें",
+    "timeline": "समयरेखा",
+    "noCases": "कोई खुला मामला नहीं। जांच शुरू करने के लिए एक बनाएं।",
+    "transactions": "लेनदेन",
+    "notes": "नोट्स",
+    "created": "बनाया"
+  },
+  "analytics": {
+    "title": "विश्लेषण",
+    "weeklyTrend": "साप्ताहिक विसंगति प्रवृत्ति",
+    "riskDistribution": "जोखिम वितरण",
+    "categoryBreakdown": "श्रेणी विभाजन",
+    "keyInsights": "🔍 मुख्य अंतर्दृष्टि",
+    "trends": "विसंगति रुझान",
+    "heatmap": "जोखिम हीटमैप",
+    "categories": "श्रेणी विभाजन"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "theme": "थीम",
+    "language": "भाषा",
+    "darkMode": "डार्क मोड",
+    "lightMode": "लाइट मोड",
+    "appInfo": "ऐप जानकारी",
+    "version": "संस्करण",
+    "build": "बिल्ड"
+  },
+  "more": {
+    "forensicTools": "फोरेंसिक उपकरण",
+    "network": "लेनदेन नेटवर्क ग्राफ",
+    "networkDesc": "खाता संबंध देखें",
+    "aiInsight": "AI अंतर्दृष्टि इंजन",
+    "aiInsightDesc": "अपने लेनदेन के बारे में AI से पूछें",
+    "behavioral": "व्यवहार फिंगरप्रिंट",
+    "behavioralDesc": "उपयोगकर्ता पैटर्न विचलन विश्लेषण",
+    "auditTrail": "ऑडिट ट्रेल",
+    "auditTrailDesc": "अपरिवर्तनीय क्रिया लॉग",
+    "settingsDesc": "थीम और भाषा प्राथमिकताएं"
+  },
+  "common": {
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "close": "बंद करें",
+    "loading": "लोड हो रहा है...",
+    "create": "बनाएं"
+  }
+}
